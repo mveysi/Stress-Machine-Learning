@@ -19,4 +19,4 @@ Bu verilerin nasıl analiz edildiğiyle ilgili daha fazla bilgi için şu kayna�
 |Humidity| Nem |
 |Temperature| Sıcaklık |
 |Step count| Adım sayısı |
-|Stress levels| Stres seviyeleri |
+|Stress levels(Target)| Stres seviyeleri (Hedef değişken)|
