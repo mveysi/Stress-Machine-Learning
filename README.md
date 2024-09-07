@@ -1,7 +1,7 @@
 # PROJE AMACI 
 
 Proje insanın fiziksel aktivitesine dayalı olarak stres seviyelerinin tespit edilip analiz edildiği bir projedir. Burada kullandığımız veri seti insan vücudu nemi, vücut sıcaklığı ve kullanıcının attığı adım sayısı ile ilgili 4 değişken ve 2001 değerden oluşmaktadır.
-Stresin düşük stres, normal stres ve yüksek stres olmak üzere üç farklı sınıflandırması yapılmıştır. Repositery deki pdf dosyasında veri setinde daha fazla detay bulabilirsiniz.
+Stresin düşük stres, normal stres ve yüksek stres olmak üzere üç farklı sınıflandırması yapılmıştır. Repositery deki pdf dosyasında veri seti hakkında daha fazla detay bulabilirsiniz.
 
 Proje de makine öğrenmesindeki sınıflandırma modelleri denenmiştir ve bunun sonucunda en verimli olarak Lojistik Regresyon seçilmiştir. Daha farklı modeller de kullanılabilir.
 
